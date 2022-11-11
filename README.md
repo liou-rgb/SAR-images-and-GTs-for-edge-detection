@@ -2,6 +2,8 @@
 
 The three SAR images are generated as two forms, which are named *_gt_ROC.mat and *_gt_ROC.pgm respectively.
 
+c1.jpg is a synthetic SAR image of 3-look.
+
 aquafarm.jpg is a scene of a coastal aquafarm with some oxygen pumps at the centers of individual nets.
 It is of 1200×1400 size, 6-look, 5m×5m resolution.
 
